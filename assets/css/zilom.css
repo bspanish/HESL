@@ -21,16 +21,22 @@
 :root {
     --thm-font: 'Kumbh Sans', sans-serif;
     --thm-reey-font: 'reeyregular';
-    --thm-base: #142c4c;
-    --thm-base-rgb: 20, 44, 76;
-    --thm-primary: #c4a862;
-    --thm-primary-rgb: 196, 168, 98;
+    --thm-base: #c4a862;
+    --thm-base-rgb: 196, 168, 98;
+    --thm-primary: #142c4c;
+    --thm-primary-rgb: 20, 44, 76;
     --thm-gray: #757783;
     --thm-gray-rgb: 117, 119, 131;
     --thm-black: #1c1e27;
     --thm-black-rgb: 28, 30, 39;
 }
 
+/* Original Theme
+    --thm-base: #142c4c;
+    --thm-base-rgb: 20, 44, 76;
+    --thm-primary: #c4a862;
+    --thm-primary-rgb: 196, 168, 98;
+*/
 
 
 .row {
